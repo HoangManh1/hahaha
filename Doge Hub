@@ -3,8 +3,8 @@ local placeId = game.PlaceId
 
 	if placeId == 2753915549 then --- Blox Fruit Old
 
-		if game.CoreGui:FindFirstChild("CPU Hub - Blox Fruit (Starter World)") then
-			game.pCoreGui:FindFirstChild("CPU Hub - Blox Fruit (Starter World)"):Destroy()
+		if game.CoreGui:FindFirstChild("Doge Hub - Blox Fruit (Starter World)") then
+			game.pCoreGui:FindFirstChild("Doge Hub - Blox Fruit (Starter World)"):Destroy()
 		end
 
 		-- init
