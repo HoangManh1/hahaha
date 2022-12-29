@@ -3450,6 +3450,8 @@ end
 
 --[Create Variables UI]
 
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/BxB-HUB/BxB-Hub-PremiumScript/main/BxB-Script/Blox-Fruit/UNIQUE/library.lua"))()
+
 local Main = Library.xova()
 
 local Tab1 = Main.create("เมนูหลัก")
