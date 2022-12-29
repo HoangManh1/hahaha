@@ -199,7 +199,7 @@ loadSettings()
 local PlaceName = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name
 local Notification = require(game:GetService("ReplicatedStorage").Notification)
 Notification.new("<Color=White>"..PlaceName.."<Color=/>"):Display()
-Notification.new("<Color=Blue>BxB.xyz | Premium!<Color=/>"):Display()
+Notification.new("<Color=Blue>Doge Hub | Premium!<Color=/>"):Display()
 Notification.new("<Color=Red>[ System ] <Color=/> - <Color=Green>Script Loading...<Color=/>"):Display()
 Notification.new("<Color=Red>[ System ] <Color=/> - <Color=Green>Change Logs<Color=/>  (+ Fix Select Team)"):Display()
 
