@@ -1581,7 +1581,7 @@
     
     --------------------------------------------
 
-    local library = loadstring(game:HttpGet("https://pastebin.com/wWyrWm5C"))()
+    local library = loadstring(game:HttpGet("https://pastebin.com/raw/wWyrWm5C"))()
     local Wait = library.subs.Wait
     
     local PepsisWorld = library:CreateWindow({
